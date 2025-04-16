@@ -57,4 +57,5 @@ The second visualization is an interactive time-series line chart that dives dee
 ---
 
 - **The Data:** [licenses_fall2022.csv](https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/licenses_fall2022.csv)  
-- **The Analysis:** [View Notebook Here](https://github.com/trisharane/data_viz/Homework5.ipynb)
+- **The Analysis:** [View Notebook Here](https://github.com/trisharane/trisharane.github.io/blob/main/data_viz/Homework5.ipynb
+)
