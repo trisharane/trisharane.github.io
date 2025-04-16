@@ -28,9 +28,9 @@ No further transformations are required because the purpose of this chart is mer
 
 ---
   
-  ### Plot 2: Interactive Monthly License Trends
+### Plot 2: Interactive Monthly License Trends
   
-  **Overview:**  
+**Overview:**  
   The second visualization is an interactive time-series line chart that dives deeper into the trends of license issuance over time. It displays how many licenses were issued each month while allowing users to filter the data dynamically by License Type. This interactive feature makes it possible to isolate and scrutinize the issuance patterns specific to any one category.
 
 **Detailed Description:**
